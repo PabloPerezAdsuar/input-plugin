@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.appgyver.plugins.nativeinput" version="0.0.2">
+        id="com.appgyver.plugins.nativeinput3" version="0.0.2">
     <name>NativeInput</name>
     <description>AppGyver Native Input Plugin - This plugin adds a native input field below the webview and is always
     visible even when displaying the keyboard.
@@ -31,7 +31,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="NativeInput" >
-                <param name="android-package" value="com.appgyver.plugins.nativeinput.NativeInput"/>
+                <param name="android-package" value="com.appgyver.plugins.nativeinput3.NativeInput"/>
             </feature>
         </config-file>
 
