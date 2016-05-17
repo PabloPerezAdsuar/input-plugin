@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.appgyver.plugins.nativeinput3" version="0.0.4">
+        id="com.appgyver.plugins.nativeinput3" version="0.0.5">
     <name>NativeInput</name>
     <description>AppGyver Native Input Plugin - This plugin adds a native input field below the webview and is always
     visible even when displaying the keyboard.
